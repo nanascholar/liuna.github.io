@@ -20,11 +20,11 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
         
-  # - title: "Blog Posts"
-  #   url: /year-archive/
-    
   - title: "Experience"
-    url: /cv/
+    url: /year-archive/
+    
+  # - title: "CV"
+  #   url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
